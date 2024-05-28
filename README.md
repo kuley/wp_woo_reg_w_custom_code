@@ -1,2 +1,2 @@
 # wp_woo_reg_w_custom_code
-Client registration only when a unique code added during the registration.
+The solution ensures that users can only register in your WooCommerce store by entering a predefined code.
